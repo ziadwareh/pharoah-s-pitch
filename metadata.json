@@ -1,0 +1,7 @@
+{
+  "name": "Pharaoh's Pitch: Egypt Caricature Maker",
+  "description": "Transform your selfie into a unique B&W caricature wearing the iconic bubbly red and black kit of the Egypt national football team.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
